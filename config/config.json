@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "root",
+    "password": "root",
+    "database": "db-backend-test-case",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
